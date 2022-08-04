@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @code-disgner
+- 👋 Hi, I’m @CodingMasala
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on sawarkar-bhongir
